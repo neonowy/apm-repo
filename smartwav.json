@@ -1,0 +1,8 @@
+{
+	"name": "smartwav",
+	"description": "Library for the SmartWAV Audio Processor unit.",
+	"homepage": "http://playground.arduino.cc/SmartWAV/SmartWAV",
+	"versions": {
+		"1.0": "http://downloads.sourceforge.net/project/smartwavarduinolibrary/SMARTWAV%20V1.zip?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fsmartwavarduinolibrary%2Ffiles%2F%3Fsource%3Dnavbar&ts=1406714653&use_mirror=cznic"
+	}
+}

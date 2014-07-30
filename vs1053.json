@@ -1,0 +1,8 @@
+{
+	"name": "vs1053",
+	"description": "Driver library for the VS1053.",
+	"homepage": "https://github.com/maniacbug/VS1053",
+	"versions": {
+		"latest": "https://github.com/maniacbug/VS1053/archive/master.zip"
+	}
+}

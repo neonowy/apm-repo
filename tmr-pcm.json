@@ -1,0 +1,8 @@
+{
+	"name": "tmr-pcm",
+	"description": "Arduino library for asynchronous playback of PCM/WAV files direct from SD card",
+	"homepage": "https://github.com/TMRh20/TMRpcm/wiki",
+	"versions": {
+		"latest": "https://github.com/TMRh20/TMRpcm/archive/master.zip"
+	}
+}

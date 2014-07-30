@@ -1,0 +1,26 @@
+{
+  "name": "dallas-temperature-control",
+  "homepage": "http://milesburton.com/Main_Page?title=Dallas_Temperature_Control_Library",
+  "versions": {
+  	"3.7.2": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_372Beta.zip",
+  	"3.7.1": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_371Beta.zip",
+  	"3.7.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_370Beta.zip",
+  	"3.6.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_360.zip",
+  	"3.5.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_350.zip",
+  	"3.4.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_340.zip",
+  	"3.3.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_330.zip",
+  	"3.2.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_320.zip",
+  	"3.1.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_310PRE.zip",
+  	"3.0.0B": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_300bPRE.zip",
+  	"3.0.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_300PRE.zip",
+  	"2.6.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_260PRE.zip",
+  	"2.5.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_250.zip",
+  	"2.0.1": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_201.zip",
+  	"2.0.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_200.zip",
+  	"1.5.0": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_150Test.zip",
+  	"1.0": "http://milesburton.com/downloads/Arduino/DallasTemperature/DallasTemperature.rar"
+  },
+  "dependencies": {
+    "onewire": ">=2.2"
+  }
+}

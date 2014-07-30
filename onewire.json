@@ -1,0 +1,8 @@
+{
+  "name": "onewire",
+  "description": "OneWire lets you access 1-wire devices made by Maxim/Dallas.",
+  "homepage": "https://www.pjrc.com/teensy/td_libs_OneWire.html",
+  "versions": {
+  	"2.2": "https://www.pjrc.com/teensy/arduino_libraries/OneWire.zip"
+  }
+}

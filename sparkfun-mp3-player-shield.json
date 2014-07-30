@@ -1,0 +1,8 @@
+{
+	"name": "sparkfun-mp3-player-shield",
+	"description": "Driver library for VSLI's VS10xx.",
+	"homepage": "https://mpflaga.github.io/Sparkfun-MP3-Player-Shield-Arduino-Library/",
+	"versions": {
+		"latest": "https://github.com/mpflaga/Sparkfun-MP3-Player-Shield-Arduino-Library/archive/master.zip"
+	}
+}

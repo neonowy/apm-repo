@@ -1,0 +1,13 @@
+{
+	"name": "uspeech",
+	"description": "Provides an interface for voice recognition using the Arduino.",
+	"homepage": "https://arjo129.wordpress.com/experiments/%C2%B5speech/",
+	"versions": {
+		"4.2.0": "https://github.com/arjo129/uSpeech/releases/download/v4.2-alpha/uspeech.zip",
+		"4.1.2": "https://github.com/arjo129/uSpeech/releases/download/v4.1.2/uSpeech.zip",
+		"4.1.1": "https://github.com/arjo129/uSpeech/releases/download/v4.1.1/uSpeech.zip",
+		"4.1.0": "https://github.com/arjo129/uSpeech/releases/download/4.1.0/uSpeech.zip",
+		"4.0.0": "https://github.com/arjo129/uSpeech/releases/download/v4.0.0-incomplete/uSpeech.zip",
+		"2.0.0": "https://github.com/arjo129/uSpeech/archive/2.0-stable.zip"
+	}
+}

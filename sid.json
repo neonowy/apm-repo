@@ -1,0 +1,10 @@
+{
+	"name": "sid",
+	"description": "MOS 6581 SID Emulator Arduino Library.",
+	"homepage": "https://code.google.com/p/sid-arduino-lib/",
+	"versions": {
+		"2.0.1": "https://sid-arduino-lib.googlecode.com/files/SID_2_0_1.zip",
+		"2.0.0": "https://sid-arduino-lib.googlecode.com/files/SID_2_0_0.zip",
+		"1.9.0": "https://sid-arduino-lib.googlecode.com/files/SID_1_9_0.zip"
+	}
+}
