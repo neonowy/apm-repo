@@ -3,7 +3,6 @@ apm-repo
 
 Official repository for apm.
 
-========
 
 ##Files:
 - `packages.json` - list of all packages in repository
