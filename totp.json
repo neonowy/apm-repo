@@ -1,0 +1,9 @@
+{
+	"name": "totp",
+	"description": "Generate TOTP codes based on the OpenAuthentication Time-based One-time Password Algorithm (RFC 6238)",
+	"category": "cryptography",
+	"homepage": "http://www.lucadentella.it/en/totp-libreria-per-arduino/",
+	"versions": {
+		"1.0.0": "https://github.com/lucadentella/ArduinoLib_TOTP/archive/master.zip"
+	}
+}
