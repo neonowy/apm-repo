@@ -1,6 +1,7 @@
 {
 	"name": "simple-sd-audio",
 	"description": "Play audio files with your Arduino in decent quality from SD card.",
+	"category": "audio",
 	"homepage": "http://www.hackerspace-ffm.de/wiki/index.php?title=SimpleSDAudio",
 	"versions": {
 		"1.03": "http://www.hackerspace-ffm.de/wiki/index.php?title=Datei:SimpleSDAudio_V1.03.zip",

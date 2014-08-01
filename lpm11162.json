@@ -1,6 +1,7 @@
 {
 	"name": "lpm11162",
 	"description": "Library for the LPM11162.",
+	"category": "audio",
 	"homepage": "http://www.lpelettronica.it/LPM11162-Arduino-Library.html",
 	"versions": {
 		"2.2": "http://www.lpelettronica.it/images/stories/LPM11162_images/Arduino/LPM11162%20Arduino%20Library%20v2.2.zip"

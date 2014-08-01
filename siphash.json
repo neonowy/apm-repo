@@ -1,0 +1,9 @@
+{
+  "name": "siphash",
+  "description": "Small library that implements SipHash for Arduino.",
+  "category": "cryptography",
+  "homepage": "https://sites.google.com/site/astudyofentropy/project-definition/timer-jitter-entropy-sources/entropy-library",
+  "versions": {
+  	"2.4.0": "http://www.forward.com.au/pfod/SipHashLibrary/SipHashArduinoLibrary.zip"
+  }
+}

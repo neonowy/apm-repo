@@ -1,0 +1,12 @@
+{
+  "name": "entropy",
+  "description": "Source for true random numbers.",
+  "category": "cryptography",
+  "homepage": "https://sites.google.com/site/astudyofentropy/project-definition/timer-jitter-entropy-sources/entropy-library",
+  "versions": {
+  	"1.0.2": "https://sites.google.com/site/astudyofentropy/file-cabinet/Entropy-v1.0.2.zip?attredirects=0&d=1",
+  	"1.0.1": "https://sites.google.com/site/astudyofentropy/file-cabinet/Entropy-v1.0.1.zip?attredirects=0&d=1",
+  	"1.0.0": "https://sites.google.com/site/astudyofentropy/file-cabinet/Entropy-v1.0.zip?attredirects=0&d=1",
+  	"0.7.2": "https://sites.google.com/site/astudyofentropy/file-cabinet/Entropy.0.7.2.zip?attredirects=0&d=1"
+  }
+}

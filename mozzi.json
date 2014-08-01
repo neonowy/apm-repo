@@ -1,8 +1,9 @@
 {
 	"name": "mozzi",
 	"description": "Sound synthesis library for Arduino.",
+	"category": "audio",
 	"homepage": "https://sensorium.github.io/Mozzi/",
 	"versions": {
-		"latest": "http://tinyurl.com/mozzilib/Mozzi.zip"
+		"1.0.0": "http://tinyurl.com/mozzilib/Mozzi.zip"
 	}
 }

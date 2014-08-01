@@ -1,8 +1,15 @@
 {
 	"name": "sparkfun-mp3-player-shield",
-	"description": "Driver library for VSLI's VS10xx.",
-	"homepage": "https://mpflaga.github.io/Sparkfun-MP3-Player-Shield-Arduino-Library/",
+	"description": "Real time non-blocking interrupt driven library for VSLI's VS10xx.",
+	"category": "audio",
+	"homepage": "http://www.billporter.info/2012/01/28/sparkfun-mp3-shield-arduino-library/",
 	"versions": {
-		"latest": "https://github.com/mpflaga/Sparkfun-MP3-Player-Shield-Arduino-Library/archive/master.zip"
+		"1.2.2": "https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/archive/1.02.02.zip",
+		"1.2.1": "https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/archive/1.02.01.zip",
+		"1.2.0": "https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/archive/1.02.00.zip",
+		"1.1.0": "https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/archive/1.01.00.zip",
+		"1.0.2": "https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/archive/1.0.2.zip",
+		"1.0.1": "https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/archive/1.0.1.zip",
+		"1.0.0": "https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/archive/1.0.0.zip"
 	}
 }

@@ -1,5 +1,7 @@
 {
   "name": "dallas-temperature-control",
+  "description": "Library for Dallas temperature sensors.",
+  "category": "i/o",
   "homepage": "http://milesburton.com/Main_Page?title=Dallas_Temperature_Control_Library",
   "versions": {
   	"3.7.2": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_372Beta.zip",

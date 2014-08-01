@@ -1,0 +1,9 @@
+{
+  "name": "md5",
+  "description": "The first easily-embeddable MD5 library for Arduino.",
+  "category": "cryptography",
+  "homepage": "https://github.com/tzikis/ArduinoMD5/",
+  "versions": {
+  	"1.0.0": "https://github.com/tzikis/ArduinoMD5/archive/master.zip"
+  }
+}
