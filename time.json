@@ -1,0 +1,10 @@
+{
+  "name": "time",
+  "description": "Adds timekeeping ability in hours, minutes, seconds, days, months and years.",
+  "category": "timing",
+  "homepage": "http://www.pjrc.com/teensy/td_libs_Time.html",
+  "versions": {
+  	"1.0.0": "http://www.pjrc.com/teensy/arduino_libraries/Time.zip"
+  },
+  "files": ["."]
+}

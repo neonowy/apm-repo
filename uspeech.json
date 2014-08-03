@@ -7,7 +7,7 @@
 		"4.1.2": "https://github.com/arjo129/uSpeech/releases/download/v4.1.2/uSpeech.zip",
 		"4.1.1": "https://github.com/arjo129/uSpeech/releases/download/v4.1.1/uSpeech.zip",
 		"4.1.0": "https://github.com/arjo129/uSpeech/releases/download/4.1.0/uSpeech.zip",
-		"4.0.0": "https://github.com/arjo129/uSpeech/releases/download/v4.0.0-incomplete/uSpeech.zip",
-		"2.0.0": "https://github.com/arjo129/uSpeech/archive/2.0-stable.zip"
-	}
+		"4.0.0": "https://github.com/arjo129/uSpeech/releases/download/v4.0.0-incomplete/uSpeech.zip"
+	},
+	"files": ["uSpeech"]
 }

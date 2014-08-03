@@ -1,9 +1,10 @@
 {
 	"name": "tone-ac",
 	"description": "Twice the volume, higher quality and higher frequency Arduino tone library.",
+	"category": "audio",
 	"homepage": "https://code.google.com/p/arduino-tone-ac/",
 	"versions": {
-		"1.2": "https://arduino-tone-ac.googlecode.com/files/toneAC_v1.2.zip",
-		"1.0": "https://code.google.com/p/arduino-tone-ac/downloads/detail?name=toneAC2_v1.0.zip&can=2&q="
-	}
+		"1.2": "https://arduino-tone-ac.googlecode.com/files/toneAC_v1.2.zip"
+	},
+	"files": ["."]
 }

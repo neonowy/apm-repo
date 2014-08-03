@@ -1,0 +1,10 @@
+{
+  "name": "pcf8583",
+  "description": "Library for interfacing with the PCF8583 real-time clock chip.",
+  "category": "i/o",
+  "homepage": "https://github.com/edebill/PCF8583",
+  "versions": {
+  	"1.0.0": "https://github.com/edebill/PCF8583/archive/master.zip"
+  },
+  "files": ["."]
+}
