@@ -15,7 +15,7 @@ Official repository for apm.
 - `category` - category of package (lowercase)
 - `versions`:
   - `version` - version of package (in this format: `x.x.x`)
-  - `url` - link to download this version of package
+  - `url` - link to download this version of package (only `.zip` supported)
 - `files` - array of directories/files to install (`*` if all)
 - `dependencies` - other packages that must be installed with package (optional):
   - `dependency-name` - name of package
