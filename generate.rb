@@ -7,7 +7,7 @@ def generate_list
 	files = Dir.entries(Dir.pwd)
 	puts "Adding.."
 	files.each do |file|
-		if file.include? == "json" && file != "packages.json"
+		if file.include?("json") && file != "packages.json"
 			puts file[0..-6]
 			packages.push(file[0..-6])
 		end
