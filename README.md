@@ -1,4 +1,5 @@
 apm-repo
+[![Dependency Status](https://gemnasium.com/neonowy/apm-repo.svg)](https://gemnasium.com/neonowy/apm-repo)
 ========
 
 Official repository for apm.
