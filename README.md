@@ -39,3 +39,8 @@ Example `package-name.json`:
   }
 }
 ```
+
+##How to contribute
+1. Fork.
+2. Make changes.
+3. Pull request.
