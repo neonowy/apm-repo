@@ -5,12 +5,12 @@ apm-repo
 Official repository for apm.
 
 
-##Files:
+##Files
 - `packages.json` - list of all packages in repository
 - `package-name.json` - info about package
 - `generate.rb` - generator of 'packages.json'
 
-##Structure of `package-name.json`:
+##Structure of `package-name.json`
 - `name` - name of package (lowercase with dashes)
 - `description` - short description of package
 - `category` - category of package (lowercase)
