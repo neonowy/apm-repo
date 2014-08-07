@@ -2,21 +2,35 @@ require 'rubygems'
 require 'bundler/setup'
 require 'json'
 
-def generate_list
-	packages = []
-	files = Dir.entries(Dir.pwd)
-	puts "Adding.."
-	files.each do |file|
-		if file.include?("json") && file != "packages.json"
-			puts file[0..-6]
-			packages.push(file[0..-6])
+class Packages
+	# Initialize class and generate packages array.
+	#
+	# @param path [String] path to packages folder (default current path)
+	def initialize(path = Dir.pwd)
+		@packages = []
+		@path = path
+		Dir.entries(path).each do |file|
+			if file.include?(".json") && file != "packages.json"
+				@packages.push(file[0..-6])
+			end
 		end
 	end
-	puts packages.to_json
-	packages_file = open('packages.json', 'w')
-	packages_file.write(packages.to_json)
-	packages_file.close
-	puts "Done."
+
+	# Counts packages.
+	#
+	# @return [Integer] number of packages.
+	def length
+		@packages.count
+	end
+
+	# Writes packages to packages.json.
+	def write
+		file = open("packages.json", "w")
+		file.write(@packages.to_json)
+		file.close
+	end
 end
 
-generate_list
+packages = Packages.new()
+packages.write
+puts "#{packages.length} packages."
