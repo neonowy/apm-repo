@@ -40,6 +40,13 @@ Example `package-name.json`:
 }
 ```
 
+##How to generate `packages.json`
+1. Install Ruby 1.9.3+ and DevKit
+3. Install Bundler: `gem install bundler`
+4. Install dependencies: `bundle install`
+5. Run: `ruby generate.rb` in folder with packages (or `ruby generate.rb PATH_TO_PACKAGES`)
+
+
 ##How to contribute
 1. Fork.
 2. Make changes.
