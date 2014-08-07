@@ -52,3 +52,5 @@ Example `package-name.json`:
 1. Fork.
 2. Make changes.
 3. Pull request.
+
+You can add issues with tag `missing package` to propose new packages in repository.
