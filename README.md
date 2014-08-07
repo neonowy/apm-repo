@@ -1,5 +1,6 @@
 apm-repo
 ========
+[![Build Status](https://travis-ci.org/neonowy/apm-repo.svg?branch=master)](https://travis-ci.org/neonowy/apm-repo)
 [![Dependency Status](https://gemnasium.com/neonowy/apm-repo.svg)](https://gemnasium.com/neonowy/apm-repo)
 
 Official repository for apm.
