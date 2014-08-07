@@ -5,7 +5,7 @@ require 'json'
 class Packages
 	# Initialize class and generate packages array.
 	#
-	# @param path [String] path to packages folder (default current path)
+	# @param path [String] path to packages folder
 	def initialize(path = Dir.pwd)
 		@packages = []
 		@path = path
