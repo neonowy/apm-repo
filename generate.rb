@@ -31,6 +31,11 @@ class Packages
 	end
 end
 
-packages = Packages.new()
+if ARGV.length == 1
+	packages = Packages.new(ARGV[0])
+else
+	packages = Packages.new()
+end
+
 packages.write
 puts "#{packages.length} packages."
