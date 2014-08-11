@@ -1,9 +1,5 @@
 apm-repo
 ========
-[![Build Status](https://travis-ci.org/neonowy/apm-repo.svg?branch=master)](https://travis-ci.org/neonowy/apm-repo)
-[![Code Climate](https://codeclimate.com/github/neonowy/apm-repo/badges/gpa.svg)](https://codeclimate.com/github/neonowy/apm-repo)
-[![Dependency Status](https://gemnasium.com/neonowy/apm-repo.svg)](https://gemnasium.com/neonowy/apm-repo)
-
 Official repository for apm.
 
 
@@ -42,16 +38,11 @@ Example `package-name.json`:
 }
 ```
 
-##How to generate `packages.json`
-1. Install Ruby 1.9.3+ and DevKit
-3. Install Bundler: `gem install bundler`
-4. Install dependencies: `bundle install`
-5. Run: `ruby generate.rb` in folder with packages (or `ruby generate.rb PATH_TO_PACKAGES`)
-
-
 ##How to contribute
 1. Fork.
 2. Make changes.
-3. Pull request.
+3. Check packages with [JSONLint](http://jsonlint.com/).
+4. Generate new `packages.json` with [apm-repo-gen](https://github.com/neonowy/apm-repo-gen).
+4. Pull request.
 
 You can add issues with tag `missing package` to propose new packages in repository.
