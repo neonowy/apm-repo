@@ -45,4 +45,4 @@ Example `package-name.json`:
 4. Generate new `packages.json` with [apm-repo-gen](https://github.com/neonowy/apm-repo-gen).
 4. Pull request.
 
-You can add issues with tag `missing package` to propose new packages in repository.
+You can add issues with tag `missing package` to suggest new packages in repository.
