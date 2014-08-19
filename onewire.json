@@ -4,7 +4,7 @@
   "category": "i/o",
   "homepage": "https://www.pjrc.com/teensy/td_libs_OneWire.html",
   "versions": {
-  	"2.2": "https://www.pjrc.com/teensy/arduino_libraries/OneWire.zip"
+  	"2.2": "http://www.pjrc.com/teensy/arduino_libraries/OneWire.zip"
   },
   "files": ["."]
 }
