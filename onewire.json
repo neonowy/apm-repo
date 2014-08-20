@@ -6,5 +6,5 @@
   "versions": {
   	"2.2": "http://www.pjrc.com/teensy/arduino_libraries/OneWire.zip"
   },
-  "files": ["."]
+  "files": ["OneWire"]
 }
