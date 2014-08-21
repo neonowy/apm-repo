@@ -6,7 +6,7 @@
   "versions": {
   	"3.7.2": "http://download.milesburton.com/Arduino/MaximTemperature/DallasTemperature_372Beta.zip"
   },
-  "files": ["."],
+  "files": ["dallas-temperature-control"],
   "dependencies": {
     "onewire": ">=2.2"
   }
