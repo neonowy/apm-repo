@@ -6,5 +6,5 @@
   "versions": {
   	"1.0.0": "https://github.com/tzikis/ArduinoMD5/archive/master.zip"
   },
-  "files": ["."]
+  "files": ["ArduinoMD5-master"]
 }
