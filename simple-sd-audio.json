@@ -9,5 +9,5 @@
 		"1.01": "http://www.hackerspace-ffm.de/wiki/images/SimpleSDAudio_V1.01.zip",
 		"1.00": "http://www.hackerspace-ffm.de/wiki/images/SimpleSDAudio_V1.00.zip"
 	},
-	"files": ["."]
+	"files": ["SimpleSDAudio"]
 }
