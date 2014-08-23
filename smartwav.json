@@ -4,7 +4,7 @@
 	"category": "audio",
 	"homepage": "http://playground.arduino.cc/SmartWAV/SmartWAV",
 	"versions": {
-		"1.0": "http://downloads.sourceforge.net/project/smartwavarduinolibrary/SMARTWAV%20V1.zip?r=&ts=1407102617&use_mirror=netcologne"
+		"1.0": "http://downloads.sourceforge.net/project/smartwavarduinolibrary/SMARTWAV%20V1.zip?r=&ts=1408826912&use_mirror=heanet"
 	},
-	"files": ["."]
+	"files": ["SMARTWAV"]
 }
