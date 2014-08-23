@@ -6,5 +6,5 @@
   "versions": {
   	"1.0.0": "https://github.com/edebill/PCF8583/archive/master.zip"
   },
-  "files": ["."]
+  "files": ["PCF8583-master"]
 }
