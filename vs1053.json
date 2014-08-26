@@ -6,5 +6,5 @@
 	"versions": {
 		"1.0.0": "https://github.com/maniacbug/VS1053/archive/master.zip"
 	},
-	"files": ["."] 
+	"files": ["VS1053-master"] 
 }
