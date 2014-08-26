@@ -6,5 +6,5 @@
 	"versions": {
 		"1.2": "https://arduino-tone-ac.googlecode.com/files/toneAC_v1.2.zip"
 	},
-	"files": ["."]
+	"files": ["toneAC"]
 }
