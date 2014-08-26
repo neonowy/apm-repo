@@ -6,5 +6,5 @@
   "versions": {
   	"1.0.0": "http://www.pjrc.com/teensy/arduino_libraries/Time.zip"
   },
-  "files": ["."]
+  "files": ["Time"]
 }
