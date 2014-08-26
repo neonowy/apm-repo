@@ -15,7 +15,7 @@ Official repository for apm.
 - `versions`:
   - `version` - version of package (in this format: `x.x.x`)
   - `url` - link to download this version of package (only `.zip` supported)
-- `files` - array of directories/files to install (`.` if you want to install root directory)
+- `files` - array of directories/files to install
 - `dependencies` - other packages that must be installed with package (optional):
   - `dependency-name` - name of package
   - `dependency-version` - version of package that must be installed
@@ -31,7 +31,7 @@ Example `package-name.json`:
   	"2.0.0": "http://download.example.com/example2.0.zip",
   	"1.0.0": "http://download.example.com/example1.0.zip",
   },
-  "files": ["./example-code", "./code"],
+  "files": ["libTwo", "libOne"],
   "dependencies": {
     "awesome": "*"
   }
