@@ -6,5 +6,5 @@
 	"versions": {
 		"1.0.0": "https://github.com/TMRh20/TMRpcm/archive/master.zip"
 	},
-	"files": ["./TMRpcm"]
+	"files": ["TMRpcm-master/TMRpcm"]
 }
